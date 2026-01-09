@@ -1,0 +1,27 @@
+{
+  "name": "improved-development-workflow-and-debugging",
+  "version": "1.0.0",
+  "description": "\"This is all about improving development workflow and debugging our code\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukwutem-emi/Improved-Development-Workflow-And-Debugging.git"
+  },
+  "keywords": [
+    "\"Development\"",
+    "\"Debugging\""
+  ],
+  "author": "Chukwutem Stephen Emi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chukwutem-emi/Improved-Development-Workflow-And-Debugging/issues"
+  },
+  "homepage": "https://github.com/chukwutem-emi/Improved-Development-Workflow-And-Debugging#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
